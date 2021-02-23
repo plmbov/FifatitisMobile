@@ -14,6 +14,7 @@ Technologies used in the project:
 - Facebook API
 
 Short demo of the app:
+
 ![FifatitisMobile](./fifatitis-mobile-demo.gif)
 
 Feel free to contact me if you are interested in apk file. ;)
